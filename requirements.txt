@@ -1,0 +1,5 @@
+openai
+feedparser
+schedule
+python-dotenv
+google-genai
