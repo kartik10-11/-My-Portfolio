@@ -1,4 +1,3 @@
-openai
 feedparser
 schedule
 python-dotenv

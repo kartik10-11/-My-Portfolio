@@ -28,12 +28,19 @@ This repository contains an automated script (`ai_market_analyzer.py`) that iden
    pip install -r requirements.txt
    ```
 
-3. **Configure your API Key**:
-   Create a `.env` file in the root directory and add your Google Gemini API key:
+3. **Configure your API Key (100% Free)**:
+   This tool is completely free to use! Google offers a free tier for the Gemini API. Here is how to get it without a credit card:
+
+   - Go to [Google AI Studio](https://aistudio.google.com/).
+   - Sign in with your Google account.
+   - Click on **"Get API key"** in the left menu.
+   - Click the **"Create API key"** button.
+   - Copy the generated key.
+
+   Create a `.env` file in the root directory and add your free Google Gemini API key:
    ```env
    GEMINI_API_KEY="your_api_key_here"
    ```
-   *You can obtain a free Gemini API key from Google AI Studio.*
 
 ### Running the Script
 
