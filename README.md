@@ -39,7 +39,7 @@ This repository contains an automated script (`ai_market_analyzer.py`) that iden
 
    Create a `.env` file in the root directory and add your free Google Gemini API key:
    ```env
-   GEMINI_API_KEY="your_api_key_here"
+   AIzaSyDfU1tEmno6x45Uzfi-nYWysTGf34dGO2A"
    ```
 
 ### Running the Script
